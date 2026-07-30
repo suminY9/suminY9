@@ -18,8 +18,8 @@
 
 ### Tools
 <img src="https://img.shields.io/badge/Xilinx%20Vivado-808000?style=for-the-badge&logo=amd&logoColor=white"> <img src="https://img.shields.io/badge/Synopsys%20EDA-5a2d81?style=for-the-badge&logo=synopsys&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Vim-11AB00?style=for-the-badge&logo=vim&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Vim-11AB00?style=for-the-badge&logo=vim&logoColor=white">
 
 ### Boards
 <img src="https://img.shields.io/badge/Basys_3-D0103A?style=for-the-badge&logo=xilinx&logoColor=white"> <img src="https://img.shields.io/badge/Zybo_Z7-002E63?style=for-the-badge&logo=xilinx&logoColor=white">
