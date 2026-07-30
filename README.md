@@ -29,15 +29,15 @@
 <br>
 
 # 🖥️ Project
-| No. | Project |
-|:---:|:-------|
-|1|[Rhythm Game](14_VGA_Project/4_project/)| ```SystemVerilog``` ```Python``` ```UVM``` ```Basys3```
-|2|[MicroBlaze를 활용한 AXI4-Lite Protocol 기반 I2C, SPI 직렬 통신 FPGA 설계 및 검증](../09_MicroBlaze/260508_project/)|
-|3|[SPI, I2C 설계 및UVM 검증](../07_SPI_I2C/)|
-|4|[RISC-V 기반 Multi-cycle MCU 설계](../06_RISC-V/0_team_project/)|
-|5|[RISC-V 기반 Single-cycle CPU 설계](../06_RISC-V/)|
-|6|[Verilog 및 Basys3를 활용한 Stopwatch/Watch FPGA 설계 및 검증](../04_top_project/0_team_project/)|
-|7|[Vision AI를 활용한 Auto Cashier System](../11_OnDevice_AI/Project/)|
+| No. | Project | Position |
+|:---:|:-------| :--- |
+|1|[Rhythm Game](14_VGA_Project/4_project/) | VGA RTL Design |
+|2|[MicroBlaze를 활용한 AXI4-Lite Protocol 기반 I2C, SPI 직렬 통신 FPGA 설계 및 검증](../09_MicroBlaze/260508_project/) | SPI RTL Design & UVM Verification |
+|3|[SPI, I2C 설계 및UVM 검증](../07_SPI_I2C/) | SPI, I2C Master RTL Design & UVM Verification |
+|4|[RISC-V 기반 Multi-cycle MCU 설계](../06_RISC-V/0_team_project/) | Multi-cycle MCU RTL Design |
+|5|[RISC-V 기반 Single-cycle CPU 설계](../06_RISC-V/) | Single-cycle CPU RTL Design & Verification |
+|6|[Verilog 및 Basys3를 활용한 다기능 시계 시스템 FPGA 설계 및 검증](../04_top_project/0_team_project/) | Watch, SR04, DHT11 Controller RTL Design, UART Verification |
+|7|[Vision AI를 활용한 Auto Cashier System](../11_OnDevice_AI/Project/)| YOLO Training |
 
 
 <br>
