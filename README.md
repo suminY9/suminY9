@@ -29,15 +29,17 @@
 <br>
 
 # 🖥️ Project
+- 🗃️[Project Guide](https://app.notion.com/p/suminy/335c7c7c1dc8803e9f86f572fca83f24?v=335c7c7c1dc880629f83000cb5d6962f&source=copy_link)
+
 | No. | Project | Position |
 |:---:|:-------| :--- |
-|1|[Rhythm Game](14_VGA_Project/4_project/) | VGA RTL Design |
-|2|[MicroBlaze를 활용한 AXI4-Lite Protocol 기반 I2C, SPI 직렬 통신 FPGA 설계 및 검증](../09_MicroBlaze/260508_project/) | SPI RTL Design & UVM Verification |
-|3|[SPI, I2C 설계 및UVM 검증](../07_SPI_I2C/) | SPI, I2C Master RTL Design & UVM Verification |
-|4|[RISC-V 기반 Multi-cycle MCU 설계](../06_RISC-V/0_team_project/) | Multi-cycle MCU RTL Design |
-|5|[RISC-V 기반 Single-cycle CPU 설계](../06_RISC-V/) | Single-cycle CPU RTL Design & Verification |
-|6|[Verilog 및 Basys3를 활용한 다기능 시계 시스템 FPGA 설계 및 검증](../04_top_project/0_team_project/) | Watch, SR04, DHT11 Controller RTL Design, UART Verification |
-|7|[Vision AI를 활용한 Auto Cashier System](../11_OnDevice_AI/Project/)| YOLO Training |
+|1|[Rhythm Game](https://github.com/suminY9/kcci_2026/tree/main/14_VGA_Project/4_project) | VGA RTL Design |
+|2|[Vision AI를 활용한 Auto Cashier System](https://github.com/suminY9/kcci_2026/tree/main/11_OnDevice_AI/Project)| YOLO Training |
+|3|[MicroBlaze를 활용한 AXI4-Lite Protocol 기반 I2C, SPI 직렬 통신 FPGA 설계 및 검증](https://github.com/suminY9/kcci_2026/tree/main/09_MicroBlaze/260508_project) | SPI RTL Design & UVM Verification |
+|4|[SPI, I2C 설계 및UVM 검증](https://github.com/suminY9/kcci_2026/tree/main/07_SPI_I2C) | SPI, I2C Master RTL Design & UVM Verification |
+|5|[RISC-V 기반 Multi-cycle MCU 설계](https://github.com/suminY9/kcci_2026/tree/main/06_RISC-V/0_team_project) | Multi-cycle MCU RTL Design |
+|6|[RISC-V 기반 Single-cycle CPU 설계](https://github.com/suminY9/kcci_2026/tree/main/06_RISC-V) | Single-cycle CPU RTL Design & Verification |
+|7|[Verilog 및 Basys3를 활용한 다기능 시계 시스템 FPGA 설계 및 검증](https://github.com/suminY9/kcci_2026/tree/main/04_top_project/0_team_project) | Watch, SR04, DHT11 Controller RTL Design, UART Verification |
 
 
 <br>
