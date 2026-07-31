@@ -29,7 +29,7 @@
 <br>
 
 # 🖥️ Project
-- 🗃️[Project Guide](https://app.notion.com/p/suminy/335c7c7c1dc8803e9f86f572fca83f24?v=335c7c7c1dc880629f83000cb5d6962f&source=copy_link)
+- 🗃️[Project Guide](https://app.notion.com/p/suminy/KCCI-Projects-335c7c7c1dc880e78040f8cdbbb2a663?source=copy_link)
 
 | No. | Project | Position |
 |:---:|:-------| :--- |
