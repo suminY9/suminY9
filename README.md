@@ -37,8 +37,8 @@
 |2|[Rhythm Game](https://github.com/suminY9/kcci_2026/tree/main/14_VGA_Project/4_project) | VGA RTL Design |
 |3|[Vision AI를 활용한 Auto Cashier System](https://github.com/suminY9/kcci_2026/tree/main/11_OnDevice_AI/Project)| YOLO Training |
 |4|[MicroBlaze를 활용한 AXI4-Lite Protocol 기반 I2C, SPI 직렬 통신 FPGA 설계 및 UVM 검증](https://github.com/suminY9/kcci_2026/tree/main/09_MicroBlaze/260508_project) | AXI4-Lite, I2C, SPI RTL Design & UVM Verification |
-|5|[RISC-V 기반 Multi-cycle MCU 설계](https://github.com/suminY9/kcci_2026/tree/main/06_RISC-V/0_team_project) | Multi-cycle MCU RTL Design |
-|6|[Verilog 및 Basys3를 활용한 다기능 시계 시스템 FPGA 설계 및 검증](https://github.com/suminY9/kcci_2026/tree/main/04_top_project/0_team_project) | Watch, SR04, DHT11 Controller RTL Design & UART Verification |
+|5|[RISC-V 기반 Single-cycle CPU 설계](https://github.com/suminY9/kcci_2026/tree/main/06_RISC-V) | Single-cycle CPU RTL Design |
+|6|[다기능 시계 시스템 FPGA 설계 및 검증](https://github.com/suminY9/kcci_2026/tree/main/04_top_project/0_team_project) | Watch, SR04, DHT11 Controller RTL Design & UART Verification |
 
 
 <br>
