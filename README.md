@@ -28,7 +28,7 @@
 
 <br>
 
-# 🖥️ Project
+# 🖥️ Key Projects
 - 🗃️[Project Guide](https://app.notion.com/p/suminy/KCCI-Projects-335c7c7c1dc880e78040f8cdbbb2a663?source=copy_link)
 
 | No. | Project | Position |
